@@ -12,10 +12,10 @@ With a deep passion for software engineering, I’m dedicated to exploring new t
 ### **Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-line-wordmark.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original-wordmark.svg" width="45"/>
 </p>
 
 ### **Frontend**
@@ -76,7 +76,6 @@ With a deep passion for software engineering, I’m dedicated to exploring new t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas1144&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anas1144&theme=radical&border_radius=5)
 
 ---
 
